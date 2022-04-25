@@ -1,0 +1,1 @@
+Npm est une interface de ligne de commande qui est intégrée dans le framework du serveur node.js. Il installe des packages et vous permet d’exécuter des scripts et de gérer les dépendances. Si vous n’avez pas encore installé Node, allez voir notre cours sur l’installation des environnements de production.
